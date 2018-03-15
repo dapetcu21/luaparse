@@ -1,5 +1,5 @@
 {
-  "name": "luaparse",
+  "name": "dapetcu21-luaparse",
   "version": "0.2.1",
   "description": "A Lua parser in JavaScript",
   "keywords": [

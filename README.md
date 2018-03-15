@@ -1,5 +1,7 @@
 # luaparse [![Build Status](https://travis-ci.org/oxyc/luaparse.svg)](https://travis-ci.org/oxyc/luaparse)
 
+> This is a fork with some patches required by atom-autocomplete-lua
+
 A Lua parser written in JavaScript, for my bachelor's thesis at Arcada.
 
 ## Installation
